@@ -1,0 +1,5 @@
+rosmsg info sensor_msg/Image
+
+rostopic list
+rostopic echo /topicNameXX/attribXX
+rostopic hz /topicName
