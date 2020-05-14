@@ -1,5 +1,9 @@
 rosmsg info sensor_msg/Image
 
+# topic
 rostopic list
 rostopic echo /topicNameXX/attribXX
 rostopic hz /topicName
+
+# image_viewer
+http://wiki.ros.org/image_view
